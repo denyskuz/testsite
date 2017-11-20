@@ -1,0 +1,10 @@
+/*
+Theme Name: Twenty Seventeen Child
+Theme URI: http://example.com/
+Description: Child theme for the Twenty Seventeen
+Author: Denys Kuz
+Author URI: http://example.com/about/
+Template: twentyseventeen
+Version: 0.1.0
+*/
+@import url('../twentyseventeen/rtl.css');
